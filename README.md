@@ -1,14 +1,14 @@
 <h1 align="center">Hello Guys <img src="https://cdn.pixabay.com/animation/2022/07/31/15/26/15-26-01-814_512.gif" width="28px" alt="👋"></h1>
 <p align="center">
     <b>Welcome to my GitHub</b><br><br>
-    <i>I am Franchis, <br>For me, every day is a learning experience and a new opportunity that is best taken. <br>Open for collaboration and to contribute to all kinds of interesting and innovative projects.</i><br><br>
-    <a href="https://www.linkedin.com/in/franchisjanelmokomba">
+    <i>I am Cheikh Mounirou Coly, <br>For me, every day is a learning experience and a new opportunity that is best taken. <br>Open for collaboration and to contribute to all kinds of interesting and innovative projects.</i><br><br>
+    <a href="#">
         <img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
-    <a href="https://www.linkedin.com/in/franchisjanelmokomba">
+    <a href="#">
         <img src="https://img.shields.io/badge/Welovedevs-black?style=flat-square&logo=" alt="LinkedIn">
     </a>
-    <a href="https://wa.link/1438x2">
+    <a href="#">
         <img src="https://img.shields.io/badge/Whatsapp-black?style=flat-square&logo=whatsapp" alt="LinkedIn">
     </a>
 </p>
@@ -36,7 +36,7 @@
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Cheikh-Nakamoto)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/Cheikh-Nakamoto)
-<!--[![Franchis's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cheikh-Nakamoto&bg_color=0d1117&color=708090&line=139ae1&point=ffffff&area=true&hide_border=true)](https://github.com/Cheikh-Nakamoto/)-->
+<!--[![Cheikh Mounirou Coly's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cheikh-Nakamoto&bg_color=0d1117&color=708090&line=139ae1&point=ffffff&area=true&hide_border=true)](https://github.com/Cheikh-Nakamoto/)-->
 
 <details>
 <p align="center">
