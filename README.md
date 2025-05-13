@@ -1,18 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Cheikh+Mounirou+Coly+Diouf;Full-Stack+Develloper)](https://git.io/typing-svg)
-<p align="center">
-    <b>Welcome to my GitHub</b><br><br>
-    <i>I am Cheikh Mounirou Coly, <br>For me, every day is a learning experience and a new opportunity that is best taken. <br>Open for collaboration and to contribute to all kinds of interesting and innovative projects.</i><br><br>
-    <a href="#">
-        <img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin" alt="LinkedIn">
-    </a>
-    <a href="#">
-        <img src="https://img.shields.io/badge/Welovedevs-black?style=flat-square&logo=" alt="LinkedIn">
-    </a>
-    <a href="#">
-        <img src="https://img.shields.io/badge/Whatsapp-black?style=flat-square&logo=whatsapp" alt="LinkedIn">
-    </a>
-</p>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&multiline=true&width=435&lines=Cheikh+Mounirou+Coly+Diouf;Full-Stack+Develloper)](https://git.io/typing-svg)
 ### Languages
 [![jee](https://img.shields.io/badge/jee-black?style=for-the-badge&logo=openjdk)](https://github.com/Cheikh-Nakamoto)
 [![java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/Cheikh-Nakamoto)
