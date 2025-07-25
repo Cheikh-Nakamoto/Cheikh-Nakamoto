@@ -2,6 +2,8 @@
 ### Languages
 [![java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/Cheikh-Nakamoto)
 
+[![rust](rust)](https://github.com/Cheikh-Nakamoto)
+
 [![javascript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Cheikh-Nakamoto)
 [![c](https://img.shields.io/badge/c_language-black?style=for-the-badge&logo=c)](https://github.com/Cheikh-Nakamoto)
 
